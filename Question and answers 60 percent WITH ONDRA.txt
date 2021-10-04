@@ -70,7 +70,7 @@ When Product Owners and Scrum Masters need to coordinate dependencies within the
 X When multiple Agile Release Trains working on the same Solution need to align and coordinate
 When teams cannot identify and estimate Stories in PI Planning and need more time to prepare
 
-What is SAFe’s release strategy?
+What is SAFeâ€™s release strategy?
 X Release on demand
 Release continuously
 Release every Program Increment
@@ -119,7 +119,7 @@ Delivering value in the shortest sustainable lead time
 Removing accountability from leaders
 
 On day two of PI Planning, management presents adjustments based on the previous day's management review and problem solving meeting. What is one possible type of adjustment they could make?
-Change a team’s plan
+Change a teamâ€™s plan
 User Stories
 Adjustment to PI Objectives
 X Business priorities
@@ -132,7 +132,7 @@ X Product Owner
 
 Which statement accurately characterizes Strategic Themes?
 They are large initiatives managed in the Portfolio Kanban that require Weighted Shortest Job First prioritization and a lightweight business case
-They are a high-level summary of each program’s Vision and are updated after every PI
+They are a high-level summary of each programâ€™s Vision and are updated after every PI
 They are requirements that span Agile Release Trains but must fit within a single Program Increment
 X They are business objectives that connect the SAFe Portfolio to the Enterprise business strategy
 
@@ -271,3 +271,107 @@ Spending caps for each ART
 X Continuous Business Owner engagement
 
 
+What is the impact of Customer Centricity?
+To design custom-built Customer Solutions
+To build small, partial systems just in time
+To interpret market rhythms
+To understand the Customer's needs
+
+If a program repeatedly shows separate Feature branches rather than a true System Demo, which practice should be reviewed to address the issue?
+Test first
+Scrum of scrums
+Continuous Integration
+Roadmap creation
+
+CURRENT
+
+Question
+What must management do for a successful Agile transformation?	Commit to quality and be the change agent in the system
+Question
+How does SAFe provide a second operating system that enables Business Agility?	By focusing on customers, products, innovation, and growth
+Question
+What is Business Agility?	The ability to compete and thrive in the digital age by quickly responding to market changes and emerging opportunities with innovative business Solutions.
+Question
+What are the last three steps of the SAFe Implementation Roadmap?	Launch more Agile Release Trains and Value Streams, extend to the portfolio, accelerate
+Question
+What can be used as a template for putting SAFe into practice within an organization?	SAFe Implementation Roadmap
+Question
+Which of the core competencies of the Lean Enterprise helps align strategy and execution?	Lean Portfolio Management
+Question
+What is the foundation of the SAFe House of Lean?	Leadership
+Question
+The House of Lean is a classic metaphor describing the mindset essential for Lean thinking. Which one of the four pillars advocates a 'Go See' mindset?	??? (Flow wrong)
+Question
+Which statement fits with the SAFe Core Value of Built-in Quality?	You cannot scale crappy code
+Question
+Which statement is a value from the Agile Manifesto? ??? WRONG->	Build incrementally with fast, integrated learning cycles
+Question
+Which statement is a principle of the Agile Manifesto?	Simplicityâ€“the art of maximizing the amount of work not doneâ€“is essential
+Question
+When basing decisions on economics, how are lead time, product cost, value, and development expense used?	To identify different parameters of the economic framework
+Question
+Which is an aspect of systems thinking?	Optimizing a component does not optimize the system
+Question
+What are the three primary keys to implementing flow? (Choose three.)	Manage queue lengths;Reduce the batch sizes of work;Visualize and limit work in process (WIP);
+Question
+What is an example of applying cadence-based synchronization in SAFe?	??? WRONG -> Teams meet twice every Program Increment (PI) to plan and schedule capacity
+Question
+What is one benefit of unlocking the intrinsic motivation of knowledge workers?	To provide autonomy with purpose, mission, and minimum constraints
+Question
+What is the biggest benefit of decentralized decision-making?	Delivering value in the shortest sustainable lead time
+Question
+What is the basic building block when organizing around value?	Agile Teams
+Question
+What is one issue when organizing around hierarchical functions?	It is not how value flows
+Question
+The Agile Release Train uses which type of teams to get work done?	Cross-functional teams
+Question
+Product Management has content authority over the Program Backlog. What do Product Owners have content authority over?	Team Backlog
+Question
+What is part of the role of Product Management?	To prioritize the Program Backlog
+Question
+Which two quality practices apply to Agile teams? (Choose two.)	??? -> not sure which is wrong -> Decentralized decision-making;Establishing flow;
+Question
+Design Thinking identifies at least four new ways to measure success. What are two of those ways? (Choose two.)	Sustainability;Desirability;
+Question
+What is the impact of Customer Centricity?	To understand the Customer's needs
+Question
+Which statement correctly describes one aspect of the team's commitment at the end of PI Planning?	A team does not commit to uncommitted objectives
+Question
+Which two statements are true about uncommitted objectives? (Choose two.) ??? not sure which is wrong->	Uncommitted objectives are extra things the team can do in case they have time;Uncommitted objectives are not included in the team's commitment;
+Question
+What is considered an anti-pattern when assigning business values to team PI Objectives?	All PI Objectives are given a value of 10
+Question
+On day two of PI Planning, management presents adjustments based on the previous day's management review and problem solving meeting. What is one possible type of adjustment they could make?	Adjust business priorities
+Question
+What is found on a program board?	Features
+Question
+Who has content authority to make decisions at the User Story level during Program Increment (PI) Planning?	Product Owner
+Question
+In the Program Kanban some steps have work in process (WIP) limits. Why is this necessary?	To ensure large queues are not being built
+Question
+What is one of the Agile Release Train sync meetings?	Scrum of scrums
+Question
+Which statement is true about the Innovation and Planning (IP) Iteration?	Without the IP Iteration, there is a risk that the 'tyranny of the urgent' outweighs all innovation activities
+Question
+What is one component of the Continuous Delivery Pipeline?	Continuous Exploration
+Question
+Which statement is true about DevOps?	DevOps is an approach to bridge the gap between development and operations
+Question
+If a program repeatedly shows separate Feature branches rather than a true System Demo, which practice should be reviewed to address the issue?	Continuous Integration
+Question
+What is the best measure of progress for complex system development?	System Demo
+Question
+What is used to capture the current state of the Portfolio and a primer to the future state?	Portfolio Canvas
+Question
+Which statement accurately characterizes Strategic Themes?	They are business objectives that connect the SAFe portfolio to the Enterprise business strategy
+Question
+What is a minimum viable product? ??? WRONG ->	A minimal product that can be built to achieve market dominance
+Question
+How is the flow of Portfolio Epics managed?	In the Portfolio Kanban
+Question
+What is one Guardrail on Lean Budget spend?	Continuous Business Owner engagement
+Question
+What is the last step in Kotter's approach to change management?	Anchor new approaches in the culture
+Question
+What can be used to script the change to SAFe?	The Implementation Roadmap
