@@ -1,4 +1,4 @@
-﻿What is the last step in Kotter's approach to change management?
+?What is the last step in Kotter's approach to change management?
 Consolidate gains and produce more wins
 X Anchor new approaches in the culture
 Sustain and improve
@@ -300,7 +300,7 @@ Which of the core competencies of the Lean Enterprise helps align strategy and e
 Question
 What is the foundation of the SAFe House of Lean?	Leadership
 Question
-The House of Lean is a classic metaphor describing the mindset essential for Lean thinking. Which one of the four pillars advocates a 'Go See' mindset?	??? (Flow wrong)
+The House of Lean is a classic metaphor describing the mindset essential for Lean thinking. Which one of the four pillars advocates a 'Go See' mindset?	??? (WRONG Relentless improvement) (Flow wrong)
 Question
 Which statement fits with the SAFe Core Value of Built-in Quality?	You cannot scale crappy code
 Question
@@ -330,7 +330,7 @@ Product Management has content authority over the Program Backlog. What do Produ
 Question
 What is part of the role of Product Management?	To prioritize the Program Backlog
 Question
-Which two quality practices apply to Agile teams? (Choose two.)	??? -> not sure which is wrong -> Decentralized decision-making;Establishing flow;
+Which two quality practices apply to Agile teams? (Choose two.)	Peer review and pairing;Establishing flow;
 Question
 Design Thinking identifies at least four new ways to measure success. What are two of those ways? (Choose two.)	Sustainability;Desirability;
 Question
@@ -338,7 +338,7 @@ What is the impact of Customer Centricity?	To understand the Customer's needs
 Question
 Which statement correctly describes one aspect of the team's commitment at the end of PI Planning?	A team does not commit to uncommitted objectives
 Question
-Which two statements are true about uncommitted objectives? (Choose two.) ??? not sure which is wrong->	Uncommitted objectives are extra things the team can do in case they have time;Uncommitted objectives are not included in the team's commitment;
+Which two statements are true about uncommitted objectives? (Choose two.) Uncommitted objectives are not included in the team's commitment;Uncommitted objectives help improve predictability;
 Question
 What is considered an anti-pattern when assigning business values to team PI Objectives?	All PI Objectives are given a value of 10
 Question
@@ -366,7 +366,7 @@ What is used to capture the current state of the Portfolio and a primer to the f
 Question
 Which statement accurately characterizes Strategic Themes?	They are business objectives that connect the SAFe portfolio to the Enterprise business strategy
 Question
-What is a minimum viable product? ??? WRONG ->	A minimal product that can be built to achieve market dominance
+What is a minimum viable product? A minimal version of a new product used to test a hypothesis
 Question
 How is the flow of Portfolio Epics managed?	In the Portfolio Kanban
 Question
