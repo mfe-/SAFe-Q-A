@@ -375,3 +375,28 @@ Question
 What is the last step in Kotter's approach to change management?	Anchor new approaches in the culture
 Question
 What can be used to script the change to SAFe?	The Implementation Roadmap
+Question
+Which operating system does SAFe represent? The network
+Business agility requires that only software teams use Lean and Agile practices to continually deliver innovative, high-quality products and services faster than the competition. False
+Question
+What is business agility? The ability to compete and thrive in the digital age by quickly responding to market changes and emerging opportunities with innovative business solutions. 
+Question
+Essential Level? Provides the minimal elements necessary to be successful with Safe
+Question
+Large Solution Level? Is used for building complex solutions that require coordination across hundreds of people
+Question
+Portfolio Level? Align strategy with execution and organizes solution deveplopment around the flow of value
+Question
+Spanning Plaette? Contains various roles and artifacs that may apply to one or more levels of Safe
+Question
+Core Competencies? A set of realted knowledge, skills, events, and behaviours which enable agility
+Question
+Foundation? Principles, values, mindset, leadershop roles, and implemenation guidance to drive change
+Question
+What are the 10 Critical ART Success Factors? The minimum set of elements required to successfully deploy SAFe across teams of teams
+Question
+What are core competencies? A set of related knowledge, skills, events, and behaviour, which together enable organizations to achieve bussiness agility
+Question
+What is the Scaled Agile Framework (SAFe)? The world`s leading framework for scaling Agile across the enterprise that provides a knowledge base of proven, integrated principles and practies to support enterprise agility
+Question
+Which configuration of SAFe® provides the minimal elements necessary to be successful with SAFe®? Essential
