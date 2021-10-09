@@ -500,3 +500,14 @@ Question
 When should a complicated subsystem team be used? To provide deep specialty skills and expertise around a specific subsystem
 Question
 What is one of the typical Kanban classes of service for Agile teams? Fixed-date
+Question
+What are the SAFe® Core Values? (Choose four.) Alignment, Program execution, Built-in quality, Transparency
+Question
+Collective ownership and standards are aspects of which SAFe® Core Value? Built-in quality
+Question
+Big visual information radiators that show clearly the work of teams across an organization is an example of which SAFe® Core Value? Transparency
+Question
+Which SAFe® Core Value focuses on continuous value delivery? Program execution
+Question
+Everyone working toward a common goal via shared objectives is a way to achieve which SAFe Core Value? Alignment
+Question
