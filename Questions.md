@@ -400,3 +400,103 @@ Question
 What is the Scaled Agile Framework (SAFe)? The world`s leading framework for scaling Agile across the enterprise that provides a knowledge base of proven, integrated principles and practies to support enterprise agility
 Question
 Which configuration of SAFe® provides the minimal elements necessary to be successful with SAFe®? Essential
+Question
+The Inspect and Adapt event always starts with which activity? The PI System Demo
+Question
+When should a component team be used? To obtain high reuse and technical specialization with a focus on Non-functional Requirements
+Question
+What are two reasons Agile development is more beneficial than waterfall development? (Choose two.) It increases productivity and employee engagement; It allows businesses to deliver value to the market more quickly
+Question
+Which factor helps unlock the intrinsic motivation of knowledge workers? Autonomy
+Question
+What is an example of a Program event? Scrum of Scrums
+Question
+What are the four levels of the Scaled Agile Framework? Team, Program, Large Solution, Portfolio
+Question
+Which activity is key to successfully implementing the Scaled Agile Framework? Use a cadence-based PI Planning process
+Question
+If the PI System Demo shows the current state of the Solution, then who is this demo intended for? The Business Owners
+Question
+Which statement is true about Iteration planning for Kanban teams? Kanban teams publish Iteration Goals
+Question
+Which two views does the Iteration Review provide into the Program? (Choose two.) How the team is responding to the stakeholders; How the team did on the Iteration
+Question
+A Cumulative Flow Diagram focuses on which curves? Arrival curve (“to-do”) and Departure curve (“done”) 
+Question
+Which two statements describe the responsibilities of the Product Owner? (Choose two.) To own and manage the team Backlog; To be a single voice for the customer and stakeholders
+Question
+Which responsibility belongs to the Product Owner in the team? To sequence backlog items to program priorities, events, and dependencies
+Question
+What is an example of a modified Fibonacci sequence? ...5, 8, 13, 20, 40...
+Question
+Which concepts are part of Kanban for teams? Visualize work flow, limit WIP, improve flow
+Question
+Why do Lean-Agile Leaders try to connect the silos of business, system engineering, hardware, software, test, and quality assurance? To align around value
+Question
+Which practice promotes built-in quality? Test-Driven Development
+Question
+Quality is first and foremost a function of what in a Lean-Agile environment? Culture of shared responsibility
+Question
+What is the role of the Scrum Master? To act as a servant leader who helps teams self-organize, self-manage, and deliver using effective Agile practices
+Question
+What is typically included in the Definition of Done for the team increment? Stories are accepted by the Product Owner
+Question
+An Agile Team collects the Iteration metrics they have agreed upon during which part of the team retrospective? During the quantitative part of the team retrospective
+Question
+What is the role of the System Architect/Engineer? To guide the teams and support the Architectural Runway
+Question
+Which statement describes a cadence-based PI Planning event? It is an all-hands, two day event with the goal to identify impediments that could happen
+Question
+What is the recommended size of an Agile Team? 5 – 11 people
+Question
+What are the SAFe Core Values? Built-in Quality, Program Execution, Alignment, Transparency
+Question
+What is the goal of the SAFe House of Lean model? Value
+Question
+Which statement is true about Work-In-Process (WIP) limits? Lower WIP limits improve flow
+Question
+What is the role of the Release Train Engineer? To serve as the Scrum Master for the Agile Release Train
+Question
+Which statement reflects one of the steps for setting initial velocity? The team members assess their availability, acknowledging time off and other potential duties
+Question
+Iteration Planning, Iteration Review, and Backlog Refinement are examples of which type of event? Team event
+Question
+How can a technical exploration enabler be demonstrated? Show the knowledge gained by the exploration
+Question
+The "3 Cs" is a popular guideline for writing user stories. What does each of the three C's represent? (Choose three.) Card Conversation Confirmation
+Question
+What replaces detailed requirements documents? Stories
+Question
+The Agile Release Train aligns teams to a common mission using a single Vision and what else? Program backlog
+Question
+During Iteration Execution, a team’s velocity tends to be most affected by what? Changing team size, team makeup, and technical context
+Question
+How does relentless improvement support value in the SAFe House of Lean? It optimizes the whole
+Question
+Why is the modified Fibonacci sequence used when estimating? It reflects the uncertainty in estimating larger items
+Question
+What is the benefit of separating release elements from the Solution? It allows the release of different Solution elements at different times
+Question
+Which statement describes one element of the CALMR approach to DevOps? Establish a work environment of shared responsibility
+Question
+Which practices are demonstrated during the Inspect and Adapt event? Reflect, problem solve, and identify improvement actions
+Question
+Jane is a Product Owner. It is day seven of the Iteration and her team tells her that they may miss their Iteration commitment. What should Jane do? Support pulling a Story that has not been started
+Question
+Which statement is true about the PI Planning event? It involves everyone in the Program over a two-day period
+Question
+Which three questions should each team member answer during the Daily Stand-up? (Choose three.) What did I do yesterday to advance the Iteration goals? What will I do today to advance the Iteration goals? Are there any impediments that will prevent the team from meeting the Iteration goals?
+Question
+What visibility should Scrum Masters provide during the Agile Release Train Sync? Visibility into progress and impediments
+Question
+What is the purpose of the Iteration Review? To measure the team’s progress by showing working Stories to the stakeholders and getting feedback from them
+Question
+What is critical to successfully implementing quality in a Lean-Agile environment? Making quality everyone’s responsibility
+Question
+James is a Product Owner. It is day seven of the Iteration and his team tells him that they may miss their Iteration commitment. What should James do? Ensure the Iteration backlog is accurately prioritized
+Question
+What are the three levels of the Scaled Agile Framework? Essential, Large Solution, Portfolio
+Question
+When should a complicated subsystem team be used? To provide deep specialty skills and expertise around a specific subsystem
+Question
+What is one of the typical Kanban classes of service for Agile teams? Fixed-date
