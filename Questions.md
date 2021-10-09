@@ -300,11 +300,11 @@ Which of the core competencies of the Lean Enterprise helps align strategy and e
 Question
 What is the foundation of the SAFe House of Lean?	Leadership
 Question
-The House of Lean is a classic metaphor describing the mindset essential for Lean thinking. Which one of the four pillars advocates a 'Go See' mindset?	??? (WRONG Relentless improvement) (Flow wrong)
+The House of Lean is a classic metaphor describing the mindset essential for Lean thinking. Which one of the four pillars advocates a 'Go See' mindset?	Innovation
 Question
 Which statement fits with the SAFe Core Value of Built-in Quality?	You cannot scale crappy code
 Question
-Which statement is a value from the Agile Manifesto? ??? WRONG->	Build incrementally with fast, integrated learning cycles
+Which statement is a value from the Agile Manifesto? Respond to change
 Question
 Which statement is a principle of the Agile Manifesto?	Simplicity–the art of maximizing the amount of work not done–is essential
 Question
@@ -511,3 +511,4 @@ Which SAFe® Core Value focuses on continuous value delivery? Program execution
 Question
 Everyone working toward a common goal via shared objectives is a way to achieve which SAFe Core Value? Alignment
 Question
+When basing decisions on economics, how are lead time, product cost, value, and development expense used? To identify different parameters of the economic framework
