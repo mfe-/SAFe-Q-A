@@ -258,15 +258,6 @@ Teams decide their own iteration length
 X Teams align their iterations to the same schedule to support communication, coordination, and system integration 
 Teams meet twice every PI to plan and schedule capacity
 
-What are the three primary keys to implementing flow? (Choose three.)You have reached the max number of allowed answers
-X Reduce the batch sizes of work
-Frequent context switching
-Increase capacity
-X Manage queue lengths
-X Visualize and limit WIP
-Address the systemic problems
-
-
 Which statement is a value from the Agile Manifesto?
 Customer collaboration over a constant indefinite pace
 Customer collaboration over ongoing internal conversation
@@ -512,3 +503,21 @@ Question
 Everyone working toward a common goal via shared objectives is a way to achieve which SAFe Core Value? Alignment
 Question
 When basing decisions on economics, how are lead time, product cost, value, and development expense used? To identify different parameters of the economic framework
+Question
+How many teams should an ART consist of? An ART consist of 5 - 12 teams.
+Question
+What is the primary focus of an operational Value Stream? Delivering end-user value
+Question
+The Customer is asking for a forecast for when a specific Feature will be available. Where could Product Management find this information? Solution Roadmap
+Question
+Features are sized or split to fit what duration? A Program Increment
+Question
+Product Management is expected to collaborate in planning the amount of upcoming Enabler work by establishing what? Capacity allocation
+Question
+When should a dependency be added to the program risks? When it must be accepted
+Question
+The recommended structure for writing User Stories is? As a…, I want…, So that…
+Question
+What happens to improvement items identified during the Iteration Retrospective? They are entered as Stories in the Team Backlog
+Question
+Who should attend the PO sync? The Product Owners, Product Management, and other stakeholders as needed
