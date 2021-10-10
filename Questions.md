@@ -521,3 +521,194 @@ Question
 What happens to improvement items identified during the Iteration Retrospective? They are entered as Stories in the Team Backlog
 Question
 Who should attend the PO sync? The Product Owners, Product Management, and other stakeholders as needed
+Question
+Who defines the final scope of the Iteration to commit? The Agile Team
+Question
+Why the Development Team has been removed since SAFe 5.0.? To better relate to business teams
+Question
+Which Continuous Delivery Pipeline event(s) is happening every iteration ? Continuous Exploration, Continuous Integration, and Continuous Deployment
+Question
+What are the two items can we find in the Team Backlog? User Stories, Spikes
+Question
+Continue the sentence :"Strategic Themes ...." Connect the portfolio to the enterprise business strategy
+Question
+How is the management defined in SAFE ? Only them can change the system
+Question
+Within the SAFE principles (10), what is related to this principle : #3, "Assume variability;
+preserve options," ?  Better economic results
+Question
+Why are you adopting Agile ? Accelerate Product Delivery
+Question
+How feedback is connected with optimum batch size? Small batch sizes enable faster feedback with lower transaction costs
+Question
+What is showing Burn-up charts during iteration progress ? Planned versus actual
+Question
+What are the necessary solutions to deliver a complete enterprise value within the seven
+core competencies? Lean Portfolio Management
+Question
+Select an activity where is the Product Owner involved.  ART sync
+Question
+The product backlog contains 60 story points. The team velocity is around 20 story points
+per iteration. How many Iterations would it take to finish the backlog? 3 Iterations
+Question
+Every Iteration, the Team builds, tests, plans, integrates for an increment. What is
+missing ?  Reviews their work
+Question
+How is supported Customer centricity ? Design thinking
+Question
+In which backlog can we find user stories ? The Team Backlog
+Question
+Select the actors in the backlog refinement event. The agile team
+Question
+What is SAFE ? SAFE is based of proven, integrated Lean practices and principles, Agile and Devops
+Question
+What kind of items is describing behaviors in Large Solution view? Capabilities
+Question
+What are the three inputs to start PI Planning? A Top-10 Features, Business context, E Product/Solution Vision
+Question
+What is an agile Team ? Self-organized, Cross-functional
+Question
+Select two Agile practices. Test-Driven Development, Timeboxing
+Question
+What is the implementation path to approve an Epic in a Lean-Agile perspective ?  Demonstrate the progress to key stakeholders after first PI and make a decision how to proceed with the Epic in the second PI
+Question
+What is the foundation of the customer-centric ? Market and user research
+Question
+What is the impact of shorter queue lengths ? Less variability
+Question
+Do we have variations in SAFE implementation ? Yes
+Question
+Select the three events facilitated by The Scrum Master. Retrospective, Iteration Planning, Daily stand-up
+Question
+What are the 3 pillars of Scrum : transparency, inspection ...? Adaptation
+Question
+When is the System Demo happening during Program Execution period ? At the end of every Iteration
+Question
+Who is facilitating the Scrum of Scrums ? Release Train Engineer
+Question
+What is defining the best the Program Vision? It expresses the strategic intent of the Program
+Question
+When is Continuous Exploration happening? Every Iteration
+Question
+What is the System Demo goal? To enable faster feedback by integrating across teams
+Question
+Who is the owner of the value stream budget allocation? A Program Portfolio Management
+Question
+What is the main role of the SAFe portfolio?  Finance and nurture a set of solution development activities
+Question
+How to connect Features and Capabilities? Some Features may not have parent Capabilities
+Question
+What is the best priorization when feature requires participation of a lazy Supplier ? Make adjustments to the size (duration) denominator of the WSJF
+Question
+Are SAFe Principles implemented in sequential order rather than concurrently ? False
+Question
+When do you need Pre-PI Planning? When multiple ARTs working in the same Value Stream need to align and coordinat
+Question
+What does “Build incrementally with fast, integrated learning” mean? Phase Gate approach
+Question
+Suppose you are increasing or enhancing enterprise agility. What is the benefit? It allows for a faster response to changing market opportunities
+Question
+Who is responsable of Capabilities? Solution Manager
+Question
+What is true about Strategic Themes?  It Links Enterprise Business Strategy with the SAFe portfolio
+Question
+Select the main purpose of DevOps. It joins development and operations to enable continuous deployment
+Question
+What is the value part of the Agile Manifesto ? Working software is valued more thant comprehensive documentation
+Question
+Working software is valued more thant comprehensive documentation Conducting the PI Planning Meeting
+Question
+You are using Cumulative Flow Diagram, select what is defining the average lead time. A Measure the horizontal distance between arrival and departure lines on a Cumulative Flow Diagram
+(CFD)
+Question
+In implementation Roadmap, what is the next step after training of executives, managers, & leaders?  Identify Value Stream and Agile Release Trains
+Question
+Solution Demo helps in: Mitigating investment risks for the Value Stream
+Question
+Select one of the purpose of Lean? Sustainable shortest lead time, best quality and value
+Question
+Which frequency to update Lean budget distribution ? Every PI boundary
+Question
+What is happening when you operate a full utilisation of product development process ? Economic disaster
+Question
+How can help the Decentralized Decision? Getting Better economic value
+Question
+During PI planning, what is the good answer about the team commitment ? A team does not commit to stretch Objectives
+Question
+Which is NOT a step in the Portfolio Kanban? Prototype
+Question
+What is the format of user-stories? As ... I want ....So that ....
+Question
+Select the pillars of House of Lean. Flow, Relentless Improvement,  Respect for people and culture, Innovation
+Question
+Whenever an Enterprise makes a decision, it deeply considers the effect it will have on
+its end users. What is this statement describing? Customer Centricity
+Question
+When mapping Value Streams what is often the most influential factor to long lead
+times?  Long delays between steps
+Question
+During which stage of the Continuous Delivery Pipeline should Features be verified in
+production before the business needs them?  Continuous Deployment
+Question
+What is the goal of psychological safety? To create an environment for responsible risk-taking
+Question
+Developing software or systems on a cadence helps manage what? Variability
+Question
+Which Design Thinking tool helps teams understand what a specific user is thinking,
+feeling, hearing, and seeing as they use the product? Empathy maps
+Question
+The accelerate step of the Implementation Roadmap is the beginning of another journey
+that is based on a foundation of what? Relentless Improvement
+Question
+How do Lean-thinking people and Agile Teams enable Organizational Agility?  By optimizing business processes, evolving strategy, and quickly adapting the organization
+Question
+Which SAFe House of Lean pillar addresses moving from projects to products? Flow
+Question
+Which level no longer exists in SAFe 5.0?   Team level
+Question
+What are two ways empathetic design impacts Customer Centricity? (Choose two.) It emphasizes user research and Gemba walks., It motivates teams to understand and experience the Customer's perspective.
+Question
+What is one way trains and Suppliers can be aligned to a shared business and
+technology mission? Use coordinated Vision, backlogs, and Roadmaps in a Solution Train
+Question
+Which team role was removed from SAFe 5.0? Dev Team
+Question
+Who is responsible for Strategy and Investment Funding? Lean Portfolio Management
+Question
+What is the purpose of the SAFe Implementation Roadmap? To provide a strategy for a SAFe transformation based on proven patterns
+Question
+When expressing Strategic Themes as objectives and key results what are the the key
+results? A set of Metrics that measure progress towards the Strategic Theme
+Question
+What are the steps of the iterative PDCA cycle? Plan, Do, Check, Adjust
+Question
+How does SAFe provide time and space for innovation? By including an Innovation and Planning Iteration
+Question
+Which aspect of strategy and investment funding involves developing and communicating the Strategic Themes throughout the portfolio? Connect the portfolio to the Enterprise strategy
+Question
+Agile Release Trains are organized around the ability to deliver what? Customer Solutions
+Question
+What is one way Lean-Agile leaders lead by example? By modeling SAFe’s Lean-Agile Mindset, values, principles, and practices
+Question
+Which SAFe competency helps live systems evolve?  Enterprise Solution Delivery
+Question
+Which two SAFe configurations are enough to achieve Business Agility? (Choose two.) Full, Portfolio
+Question
+Enterprise Solution Delivery, Agile Product Delivery, and which other competency are part of the Execution side of the SAFe Business Agility overview? Team and Technical Agility
+Question
+What is defined as the ability to compete and thrive in the digital age by quickly responding to market changes and emerging opportunities with innovative business solutions? Business Agility
+Question
+What is one way to help establish a future state portfolio canvas? Create a TOWS analysis
+Question
+How does SAFe recommend using a second operating system to deliver value? Organize the Enterprise around the flow of value while maintaining the hierarchies
+Question
+How should organizations view market changes? As opportunities
+Question
+Which dimension of the Enterprise Solution Delivery competency applies Lean-Agile practices to align and coordinate all the activities necessary to specify, architect, design, implement, test, deploy, evolve, and ultimately decommission Solutions? Lean System and Solution Engineering
+Question
+Which SAFe Core Competency describes a set of values and practices that encourage the whole Enterprise to increase knowledge, competence, performance, and innovation?  Continuous Learning Culture
+
+
+
+
+
